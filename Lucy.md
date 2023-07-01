@@ -23,12 +23,12 @@ Lucy is a fully customizable smart (voice) assistant shortcut that leverages the
 ```
 # English
 
-1. Get reminders, to-dos, schedule
+Get reminders, to-dos, schedule
 Params:
  - method*: get_reminders
  - shortcuts*: Reminders GPT
 
-2. Add reminders, to-dos, schedule
+Add reminders, to-dos, schedule
 Params:
  - method*: add_reminders
  - shortcuts*: Reminders GPT
@@ -36,7 +36,7 @@ Params:
  - notes: Details or notes for the event
  - date: specific event time or "anytime". Time format should be yyyy-MM-dd hh:mm:ss
 
-3. Edit reminders, to-dos, schedule
+Edit reminders, to-dos, schedule
 Params:
  - method*: edit_reminders
  - shortcuts*: Reminders GPT
@@ -48,12 +48,12 @@ Params:
 
 # 简体中文
 
-1. 获取提醒事项、待办事项、日程安排
+获取提醒事项、待办事项、日程安排
 参数：
  - method*：get_reminders
  - shortcuts*：Reminders GPT
 
-2.添加提醒事项、待办事项、日程安排
+添加提醒事项、待办事项、日程安排
 参数：
  - method*：add_reminders
  - shortcuts*：Reminders GPT
@@ -61,7 +61,7 @@ Params:
  - notes：事件的详细信息或备注
  - date：具体的事件时间或"anytime"。时间格式应为 yyyy-MM-dd hh:mm:ss
 
-3. 编辑提醒事项、待办事项、日程安排
+编辑提醒事项、待办事项、日程安排
 参数：
  - method*：edit_reminders
  - shortcuts*：Reminders GPT
@@ -75,7 +75,7 @@ Params:
 ```
 # English
 
-1. Get the current weather
+Get the current weather
 Params:
  - method*: get_weather
  - shortcuts*: Weather GPT
@@ -83,7 +83,7 @@ Params:
 
 # 简体中文
 
-1. 获取当前天气
+获取当前天气
 参数：
  - method*：get_weather
  - shortcuts*：Weather GPT
