@@ -7,7 +7,7 @@ Lucy is a fully customizable smart (voice) assistant shortcut that leverages the
 
 ## Download
  - [Lucy](https://www.icloud.com/shortcuts/3ff326defcee44f69ad0af40f4b62c63)
- - [Lucy](https://www.icloud.com/shortcuts/6b3278a92e8543f29ca17428eee98c63) (简体中文)
+ - [Lucy](https://www.icloud.com/shortcuts/312f819577b6416c978addec844ebf3b) (简体中文)
 
 ## Plugins
 | Name | App | Intro | Prompts | 
